@@ -1,0 +1,762 @@
+[
+  {
+    "id": "4a618b25-d624-4468-809b-f1ca254d6f76",
+    "project": "A Comparison of MacroAlgae in the Randall's Island Salt Marsh vs. the East River",
+    "students": [
+      "Maddie Martinez",
+      "Sophia Thompson",
+      "Eleanor Chesney"
+    ],
+    "school": "Ethical Culture Fieldston School, The Bronx",
+    "mentors": "Howard Waldman",
+    "description": "The purpose of this project is to determine the differences in the macroalgae found in the Little Hell Gate Salt Marsh of Randall's Island and the East River. Macroalgae or seaweeds are macroscopic organisms and they sit at the bottom of the marine food chain and support many communities of herbivorous animals. The Little Hell Gate Salt marsh is rocky and consists of many places for algae to attach to a substratum, making it an excellent habitat for algae to grow. The East River is a saltwater tidal estuary in New York City. We are curious to see if the increased amount of pollution there negatively affects the biodiversity of the species of Macroalgae in the East River. Additionally, we are curious to see if the lack of rocks and faster current would allow fewer macroalgae to grow in the East River. We hypothesize that there will be more species of macroalgae in in the salt marsh due to the increase of rocks to attach to, slow-moving water, and less pollution.",
+    "poster": "waldman-4234-poster-YF3FRKV.pdf"
+  },
+  {
+    "id": "7089e758-1fb7-4f2b-ba30-160d7a8ac3fa",
+    "project": "Ant biodiversity in Westchester county, NY",
+    "students": [
+      "Sophiana Simone",
+      "Justine Dolan",
+      "Grace Irving"
+    ],
+    "school": "The Ursuline School, Other",
+    "mentors": "Oxana Litvine",
+    "description": "Ants stand to be a common terrestrial insect group, with the species invading almost the entire world excluding Antarctica. They play a pivotal role as essential parts of the ecosystem; influencing soil health, seed dispersal, and even acting as indicators of environmental change. DNA barcoding has recently been used to test the earth's biodiversity, which is what we will be utilizing to identify ant biodiversity in Westchester County. By using multiple techniques of species identification including iNaturalist, field guide identification, and DNA barcoding, we aim to better understand ant biodiversity in Westchester County.",
+    "poster": "litvine-4401-poster-YONII.pdf"
+  },
+  {
+    "id": "aa75240c-2463-44d9-a603-f85467745080",
+    "project": "Ant-icipating Diversity: A Study of Island Ant Habitats",
+    "students": [
+      "Ian Cheung",
+      "Luke Singer",
+      "Noah Levine"
+    ],
+    "school": "Ethical Culture Fieldston School, The Bronx",
+    "mentors": "Nim Lee",
+    "description": "This experiment investigates the diversity and habitat distribution of ant species on Randall’s Island, New York, with an emphasis on understanding how species abundance can vary across different circumstances that habitats may provide. As ants are one of the most diverse and abundant species on earth, looking at the diversity of species on Randall’s Island may provide interesting results. Conducting on-site observations and sample collection followed by DNA extraction and analysis as well as ant taxonomy will help provide a comprehensive view of the diversity of the ant population on the island. By using both DNA sequencing and taxonomy we will be able to obtain a high certainty of the species we collect. The findings from this study will provide important insights for future urban ecology studies, especially given that there is minimal data on ant diversity on Randall’s Island.",
+    "poster": "lee-4225-poster-LXVEFAD.pdf"
+  },
+  {
+    "id": "5374a523-d9ec-4c6a-8309-9d2497ad2b54",
+    "project": "New York's Web of Biodiversity",
+    "students": [
+      "James Knox",
+      "Andrea Pennisi",
+      "Antoine Vandewiele",
+      "Dominic Seward"
+    ],
+    "school": "Dwight School, Manhattan",
+    "mentors": "Michael Paul",
+    "description": "New York has a large insect population, especially in the city’s many parks. One group of organisms that is especially prevalent across the city is the class arachnid. There are roughly 80 different species of arachnids in New York. Due to their function as an indicator species, monitoring the population of spiders provides a deeper understanding of the ecosystem as a whole. In this study, we will primarily investigate parks across New York City. We will search for specimens to the side of paths and other less visited areas. This data can also help us understand the impact that a city environment has had on spiders as a whole. We hypothesize that we will collect a wide range of different spider species throughout the entire city. The aim of our project is to determine the variety of spiders in the metropolis of New York. In order to reflect the geographic diversity of New York, we will collect data samples from several locations. These locations are throughout Central Park, Riverside",
+    "poster": "N/A"
+  },
+  {
+    "id": "ac86560b-e7ee-4acc-a519-a14953b95979",
+    "project": "Arthropod Species Identification in Manhattan",
+    "students": [
+      "Olivia Beal",
+      "Chloe Won",
+      "Ariadni Markantonaki Kouletaki",
+      "Isadora Zucker"
+    ],
+    "school": "Dwight School, Manhattan",
+    "mentors": "Michael Paul",
+    "description": "DNA barcoding is a method used for the identification of species, through the specific sequence of DNA found in the genome of the organism. Compared to barcoding, classical taxonomical identification techniques used to catalog species often fall short of the certainty needed to make such claims confidently. This is especially true for arthropods, which group together a very diverse range of species. There are around 10 million species of arthropods on Earth, close to 25,000 in New York alone; thus, DNA Barcoding enables us to more confidently identify the specific species of arthropods present in a given area. For this project, we will distinguish between species of arthropods and any observations that would aid our research in identifying the biodiversity of arthropods in Manhattan and how that impacts our environmental actions and concerns for the future.",
+    "poster": "N/A"
+  },
+  {
+    "id": "cec4190c-d483-458e-9680-0d06d18f47fe",
+    "project": "Relating the Biodiversity of Ferns in Northern New Jersey to Nitrogen, Phosphorus, Potassium and Soil pH Levels",
+    "students": [
+      "Seung Hoon Joo",
+      "Edward Wang"
+    ],
+    "school": "Tenafly High School",
+    "mentors": "Alan Brandstaedter",
+    "description": "Ferns are a diverse group of plants that reproduce through spores and are good bioindicators for environmental health. However, not much is known about the correlation between specific fern species and the soil condition surrounding it. Using DNA barcoding and soil testing, we aim to find a correlation between fern species and the pH, nitrogen, phosphorus, and potassium content within the soil. To do this, we will collect 20 samples of ferns and their surrounding soil. The soil will be immediately tested with the Rapitest soil kit, and the ferns sequenced using rapid DNA isolation, PCR, and gel electrophoresis and identified with the help of DNA Subway and BLAST software.",
+    "poster": "N/A"
+  },
+  {
+    "id": "4f6d13ab-9349-4b14-870d-1fa94aeb6a21",
+    "project": "The Mysterious Case of the Vanishing Coffee Beans",
+    "students": [
+      "Shreya Sibal",
+      "Jennifer Kim"
+    ],
+    "school": "Tenafly High School, Other",
+    "mentors": "Alan Brandstaedter",
+    "description": "Coffee is a popular food product that is facing extinction in many of its species. Due to climate change and plant diseases, the coffee plant is dying out. It is expected that of the 124 wild coffee species, greater than 60% are facing extinction. Furthermore, 45% of these species are not part of any germplasm collection and 28% do not exist in a protected area. DNA sequencing can identify the regions of each species' DNA that vary to determine which ones make each species resilient to climate change and disease vectors.",
+    "poster": "brandstaedter-4310-poster-LQIV.jpg"
+  },
+  {
+    "id": "982a111a-5780-429d-b901-99166f79d00a",
+    "project": "Biodiversity of Invasive Plants in Stuyvesant Park, New York City",
+    "students": [
+      "Elizabeth Miranda",
+      "Sunaya Bhoodai",
+      "Alexander Troshin",
+      "Ina Chen"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Rocheli Apilan",
+    "description": "Invasive plants have brought global attention for causing ecological damage and having a negative impact on the ecosystem’s balance. However, it is known to be difficult in accurately identifying the plant to be invasive through morphology. Therefore, DNA Barcoding is utilized to accurately identify the species of invasive plants. DNA Barcoding allows scientists to identify the species of wildlife, plants, and fungi by looking at their genetic makeup along with the reference library of species. Moreover, DNA Barcoding will enhance peoples’ understanding on the invasive species of plants in New York. To begin the classification of the species, one must extract DNA from different plants collected from Stuyvesant Park. Then, the DNA must be completely isolated using alcohols and a centrifuge that remove unnecessary materials from the plant’s DNA. Lastly, with the isolated DNA removed and examined the DNA would be uploaded into the database to discover the species name.",
+    "poster": "apilan-4146-poster-M7AAK.pdf"
+  },
+  {
+    "id": "7f5bebc9-4e19-48ff-aaa9-343f26041841",
+    "project": "The Meat We Eat!",
+    "students": [
+      "Melanie Quizhpe",
+      "fernanda alvarez",
+      "Ahmed Youssef",
+      "Karla Valdez"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Rocheli Apilan    ",
+    "description": "Have you ever wondered what the hot dogs you eat are made of? This question has raised ongoing concerns about people's household health. The purpose of this experiment is to determine the composition of mystery meats and understand how some of them can be detrimental to human health. DNA Barcoding is a valuable tool in ensuring the safety and quality of the food we consume. Research has shown that consuming contaminated and adulterated food can lead to serious health problems, including infectious diseases and allergies. DNA barcoding technology serves as a regulatory tool for identification and authenticity, providing the public with insights into the microbiological and toxicological risks associated with consuming unknown meats like hot dogs, spam, and beef jerky. Detecting improper labeling of these products significantly enhances food safety.",
+    "poster": "apilan-4159-poster-SSL0T.pdf"
+  },
+  {
+    "id": "2d93f1c1-59b5-4525-b903-77e290a3e55b",
+    "project": "Demonstrating the Efficacy of Airborne eDNA by Detecting Locally Extinct Mesic and Riparian Species in an Urban Forest",
+    "students": [
+      "Leandre Aguilar",
+      "Kenya Davis",
+      "Nicholas Valdez",
+      "Zachary Vetsch"
+    ],
+    "school": "Hostos Lincoln Academy, The Bronx",
+    "mentors": "Allison Granberry",
+    "description": "Environmental DNA (eDNA) focuses on the extraction and analysis of DNA from environmental samples such as soil, water, and air. By using eDNA metabarcoding, more species can be detected in an area than if other methods were used. A 2015 inventory of the old-growth forest at the New York Botanical Garden found that five fern species present in 1899 had gone locally extinct. We plan to compare eDNA sequence data to the 1899 and 2015 inventories to identify any differences. Ultimately, we will learn if the forest is continuing to decline or recovering—evident by the reemergence of locally extinct fern life. Applying airborne eDNA technology to the study of plant biodiversity will allow us to contribute towards techniques for rapid biodiversity monitoring.",
+    "poster": "granberry-4386-poster-KBLM.pdf"
+  },
+  {
+    "id": "625ab76f-4b76-424b-9929-c9aa85c7a53b",
+    "project": "How is Fungi a Bioindicator of Air Quality",
+    "students": [
+      "Alana Persaud",
+      "Angelica Capparelli",
+      "Aleksandra Weglarz"
+    ],
+    "school": "Forest Hills High School, Queens",
+    "mentors": "Lauren Scanlon",
+    "description": "In this project, we aim to determine how we can use fungi to indicate different air quality levels in NYC. We will be going to 2 different parks to test the air quality of different locations in NYC. We will be taking samples of fungi in different areas of the park and will be using DNA sequencing to extract the DNA from each sample of fungi. Once the DNA of each sample is isolated, the DNA will be sent off to a lab to determine the species of fungi. By examining these fungi samples, we hope to determine which species of fungi is more prominent in areas of good area quality or poor air quality. This will help us better understand how we can utilize fungi to help us learn more about our surroundings. Some samples of fungi may be from a more urban area, with highways and buildings nearby, where there could be a lot of smoke or activity. While other samples may be from deeper in the forest or park, surrounded by trees and other foliage. The air quality next to a highway would be more poll",
+    "poster": "scanlon-4449-poster-QC9SZ.pdf"
+  },
+  {
+    "id": "b6902978-ba72-40f2-80e8-014ebf793b4d",
+    "project": "Biodiversity of Fungi in New York",
+    "students": [
+      "Brian Lancea",
+      "Xavier Garcia"
+    ],
+    "school": "Forest Hills High School, Queens",
+    "mentors": "Lauren Scanlon",
+    "description": "Biodiversity in soil and fungi are spoken about and studied less than it should in areas such as New York and people don’t see the importance of how different soils have certain effects on bacterias and fungi in the area around them. We want to be able to show how much an under-studied thing really has an effect on our environment that we live in and pass by without having a second thought in our minds. Like stated, we will collect soil samples from areas of Queens and test them out to see what is in the soil that we are near ourselves every single day. We’ll be looking for behavioral patterns in the soils and similarities and differences with the physical features of the fungi we detect.",
+    "poster": "scanlon-4450-poster-5PTRY.pdf"
+  },
+  {
+    "id": "f8022403-91a5-418c-a204-0f34e4245305",
+    "project": "The Antimicrobial Effects of Cinnamon and Penicillin on the Soil's Microbiome    ",
+    "students": [
+      "Amayah Bell",
+      "Hanchen Mao",
+      "Victoria Jamrozek",
+      "Folasade Ajiboye"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Rocheli Apilan",
+    "description": "Antimicrobial resistance is a growing concern as bacteria resist antibiotics, making infections harder to treat. This can lead to longer, more severe infections and treatment failures. The development of antimicrobial resistance is a complex process involving genetic mutations and overuse and misuse of antibiotics. It affects human and animal health, increasing morbidity, mortality, hospital stays, and healthcare costs. Addressing antimicrobial resistance requires a multi-faceted approach, including promoting appropriate antibiotic use, implementing infection prevention measures, developing new antibiotics and alternative treatments, and improving surveillance. Antimicrobial Resistance “AMR” happens when bacteria, viruses, fungi, and parasites evolve over time and stop responding to medications, making illnesses more difficult to cure and raising the possibility of serious illness, death, and disease transmission. A collective effort involving healthcare professionals, policymakers",
+    "poster": "apilan-4160-poster-ACIHYF.pdf"
+  },
+  {
+    "id": "0294462d-746e-487c-8c66-9fa5552f03fc",
+    "project": "Central Park Fungal Biodiversity",
+    "students": [
+      "Evelyn Sargsyan",
+      "An Vi Wong",
+      "Avalon Zucker"
+    ],
+    "school": "Dwight School, Manhattan",
+    "mentors": "Michael Paul",
+    "description": "New York City is known to have a wide range of living organisms that account for the biodiversity examined in this research. There are a variety of species of fungi living in parks throughout the city, especially throughout Central Park. Throughout the park, there are different conditions in which fungus adapts and develops different patterns to evolve. The purpose of the research is to examine the genetic code of fungi in different areas to identify how and in which conditions do these fungi develop. The fungi were collected from different areas in the park, with gloved hands, and stored in a petri dish placed in the freezer. The silica protocol provided by the DNALC laboratory and the ITS primer to isolate the DNA. The results of the research provide insight into the identified fungal species in New York City and how each species developed.",
+    "poster": "N/A"
+  },
+  {
+    "id": "b1ee31dc-fcf9-4607-96b6-85b7fe00ca60",
+    "project": "Fungi Biodiversity in New York City",
+    "students": [
+      "Allegra Masterson",
+      "Alma Laufer - Barhad",
+      "Neil Kush",
+      "Nate Rose"
+    ],
+    "school": "Dwight School, Manhattan",
+    "mentors": "Michael Paul",
+    "description": "This project will compare biodiversity levels of Eomycota across New York City. The aim of the project is to observe how biodiversity levels of mushroom species will change across a variety of locations in Central Park and Riverside Park. The fungus samples will be collected from multiple locations in Central Park as well as a few locations in Riverside Park. To ensure sterility of the samples, latex gloves will be used to collect the samples and a petri dish will be used to store them. We will be using the Whatman No. 1 Chromatography paper as our DNA extraction method as outlined by Cold Spring Harbor Laboratory’s DNA Barcoding Guide. The DNA will then be amplified using polymerase chain reaction (PCR) before gel electrophoresis is performed to confirm the success of the PCR amplification.",
+    "poster": "N/A"
+  },
+  {
+    "id": "43644665-01dc-4fc8-919c-84ec23daa28a",
+    "project": "Biodiversity of Ants in NYC",
+    "students": [
+      "Gianna Perez",
+      "Aneliz Rodriguez",
+      "Caroline Neuer"
+    ],
+    "school": "FMHS, Manhattan",
+    "mentors": "Dora Miklos",
+    "description": "New York city hosts a wide variety of life in its biodiverse urban ecosystem. Urban ecosystems like New York are unique, as Freelance Science, Environmental, and Legal Journalist Richard Blaustein states, these cities “are revitalizing the potential for biodiversity”(Blaustein, 2013). This contributes to important biodiversity in modern environments throughout the world. Biodiversity is defined as the variety of all living organisms in a particular ecosystem. Ants are important to our biodiversity since, as explained by Joseph Parker from the Division of Biology and Biological Engineering in the California Institute of Technology and Daniel J. C. Kronauer from The Laboratory of Social Evolution and Behavior in The Rockefeller University, “ants exert impacts on other biota that are unmatched by most animal clades,” meaning ants have shaped most of our terrestrial biodiversity today (Parker & Kronauer, 2021). Ants help to cultivate our ecosystem “through their interactions with",
+    "poster": "N/A"
+  },
+  {
+    "id": "0b3b4200-263f-48a7-9c2d-ad225142406f",
+    "project": "Biodiversity of Plants",
+    "students": [
+      "Zahira Frias",
+      "McKenzie Leplatte",
+      "Donia Darwish",
+      "Lala Diwara"
+    ],
+    "school": "FMHS, Manhattan",
+    "mentors": "Dora Miklos",
+    "description": "Biodiversity is the variety of different living organisms and their interactions. Biodiversity changes over time due to new evolving species and species that go extinct. There are three levels of diversity: species,ecosystem, and genetic biodiversity (Hancock, n.d.). New York is considered to be one of the most diverse cities in the world (McWeeney, 2020). According to New York Botanical Garden, “There are approximately 1250 species of plants that occur spontaneously in New York City” (NYBG, 2023). In Just New York City there are over one thousand species of plants such as mosses, ferns, grasses, sedges and rushes, wildflowers, trees, shrubs, and vines etc. (NATURAL AREAS NYC, n.d.). Plants biodiversity helps ensure resources for new food crops and medicine (Naturalhistory.edu). Plants are very important for us because they help maintain the balance of the ecosystem; plants reduce erosion, moderate the climate, protect watersheds, and provide shelter for many different species. We",
+    "poster": "N/A"
+  },
+  {
+    "id": "894d1696-6d4d-40b2-a10e-49a119054072",
+    "project": "Invertebrate Biodiversity Relative to Road Proximity at Randall's Island",
+    "students": [
+      "Alexa Friedman",
+      "Sarah Gallen",
+      "Rafael Kaissar"
+    ],
+    "school": "Ethical Culture Fieldston School, The Bronx",
+    "mentors": "Howard Waldman",
+    "description": "Randall’s Island has multiple biomes such as a salt marsh, freshwater wetlands, and wildflower meadows. Within each ecosystem of Randall’s Island is a diverse network of animals; within these networks are rich populations of invertebrates. Invertebrates in urban environments are highly susceptible to habitat disruption and extermination. This experiment focuses on a singular threat to invertebrate diversity- busy roads. Regular cars utilize the burning of gasoline and diesel to create energy which releases harmful gasses into the atmosphere. Polluted air has been shown to have direct effects on plant health and photosynthetic patterns. We predict that as we collect invertebrates incrementally further away from the road that the invertebrate biodiversity will increase and there will be a wider variety of species found.",
+    "poster": "waldman-4214-poster-79AVG.pdf"
+  },
+  {
+    "id": "79aef4f1-eecd-41e0-b0bb-013ecd6ee065",
+    "project": "Investigation of epiphytic mosses as bioindicators of air pollution in Westchester county, NY",
+    "students": [
+      "Aine O’Sullivan",
+      "Adriana King",
+      "Anna Fahy"
+    ],
+    "school": "The Ursuline School, Other",
+    "mentors": "Oxana Litvine",
+    "description": "Moss, a nonvascular spore-bearing species, holds pivotal ecological roles by regulating water levels and maintaining soil moisture. Additionally, moss serves as a bioindicator of atmospheric pollution, absorbing pollutants while lacking roots and vascular tissue. This study will employ epiphytic mosses as bioindicators to assess the impact of air pollution in Westchester County, NY. Our investigation will focus on epiphytic mosses in Westchester County, NY, comparing Teatown Lake Reservation (low pollution) with Bronx River Parkway Reservation (high pollution). Moss samples will be identified using iNaturalist, field guides, and DNA barcoding. We hypothesize that areas with elevated atmospheric pollution will exhibit diminished moss biodiversity. This Urban Barcoding Project will contribute valuable insights into utilizing mosses as effective bioindicators for monitoring air quality in local ecosystems.",
+    "poster": "litvine-4396-poster-TMZSL.pdf"
+  },
+  {
+    "id": "6bb02b06-1ef4-4beb-a73a-f6f2f430dbec",
+    "project": "Biodiversity of Bugs and Insects in Queens and Brooklyn Parks",
+    "students": [
+      "Marianny Genao",
+      "Adriana Pavia",
+      "Jasper Yang",
+      "Emely Landi"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Virdjinika Paljan Dragic",
+    "description": "All life is linked together in such a way that no part of the chain is unimportant. Frequently, upon the action of some of these minute beings depends the material success or failure of a great commonwealth (John Henry Comstock, Insect Life: An Introduction To Nature Study and a Guide for Teachers). The purpose of the experiment is to record the biodiversity of insects in Brooklyn, Robert E. Venable Park, and Queens, Astoria Park parks. If records are made of the biodiversity of insects in these regions now, then after some time researchers can look back on the information and compare and contrast records kept in the present. If there is a decrease of insect biodiversity in the habitat then it will be known that that park is inhabitable towards insect life and something must be amiss. If the biodiversity of insects stays the same or increasing then it will demonstrate that that habit is prospering. DNA barcoding will be used to file the results of the research.",
+    "poster": "paljandragic-4151-poster-F1FVEY.pdf"
+  },
+  {
+    "id": "4208469c-d359-43fe-8a95-c54e5042c5ab",
+    "project": "Biodiversity of Soil's Microorganisms in an Urban Area versus Sub-Urban Area",
+    "students": [
+      "Amelia Bhi m",
+      "Mariam Elkhateeb",
+      "Alina Astudillo",
+      "Ana Rocafuerte"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Rocheli Apilan",
+    "description": "Urbanization, the rapid expansion of cities and human infrastructure, has become a dominant global phenomenon, altering natural landscapes and ecosystems. Urban environments are characterized by complex anthropogenic pressures, including habitat destruction, pollution, and habitat fragmentation. On the other hand, non-urbanized regions are ones that have lower population density, are devoted to more natural agricultural processes, and have fewer infrastructure/ recreational amenities. These circumstances in which environments stem from are primitive factors that have the potential to exert profound effects on local and regional biodiversity. Biodiversity refers to the volume of living species on Earth and how different species interact with each other and the physical world around them. Biodiversity in turn is affected when urbanization promotes the dwellings of buildings and practices that destroy, fragment, pollute, heat up and introduce invasive species into habitats with species al",
+    "poster": "apilan-4274-poster-08IAUC.png"
+  },
+  {
+    "id": "b65f3264-170e-4f1e-b556-c6ea3c69bfbf",
+    "project": "Testing the Theory of Island Biogeography Under Log Islands",
+    "students": [
+      "Cristina Ellis",
+      "Atiksh Bordia",
+      "Ella Odinec"
+    ],
+    "school": "Ethical Culture Fieldston School, The Bronx",
+    "mentors": "Howard Waldman",
+    "description": "The theory of island biogeography can help predict the number of species that will occur on a given island. These islands are not necessarily islands; this theory can be applied to the diversity of lakes, forest fragments, summits, and more. We decided to study the theory of island biogeography on the smallest scale, examining log diversity based on the size of the logs. Logs can be considered \"islands\" because of the micro-habitats that lie beneath them. Many invertebrate species call Randall's Island home. A lot of these species reside under logs, so in doing our collecting, we are expecting to see many different species. We expect to find invertebrate species in the families of Chilopoda, Annelida, Diplopoda, and more under logs on Randall's Island. By examining the species collected and the size of the logs they were found under, we will learn more about the species on Randall's Island and reveal if the theory of Island of biogeography applies to this small scale.",
+    "poster": "waldman-4224-poster-YHAETFO.pdf"
+  },
+  {
+    "id": "cf1c57ad-4b89-46ee-afeb-6bfa5095a68d",
+    "project": "Analyzing biodiversity of moss and its effect on the nutritional composition of soil",
+    "students": [
+      "Fabiha Muhsina",
+      "Yadhira Ortiz"
+    ],
+    "school": "Manhattan Center for Science and MAthematics, Manhattan",
+    "mentors": "Evelyn Wing",
+    "description": "A bewilderment to society, but indeed a lifeblood of plant ecosystems, mosses are non-flowering plants that have branches, leaves, and spores but no real roots. Mosses function ecologically by decomposing exposed materials and releasing nutrients for use by gradually developing more sophisticated plants. Mosses absorb water just like sponges. They aid in retaining moisture in the soil beneath them, absorbing rainfall, and preserving the humidity of the environment. This makes it possible for nearby plants to flourish, such as those in marshes and forests. The goal of this research is to examine the biodiversity of moss and see how it affects the soil's nutrient composition. Moss samples will be extracted from soil samples using a hori hori knife and used in PCR testing for species identification. PCR amplifies a segment of the genome using primers and DNA synthesis. Essential components include Taq polymerase, primers, template DNA, and nucleotides. This information will help evaluate",
+    "poster": "wing-4306-poster-HEFZ.jpeg"
+  },
+  {
+    "id": "51b26fd9-9a3e-43d6-85e7-a1e9fda60c71",
+    "project": "Analyzing Biodiversity of Bacteria in Oysters on the East Coast",
+    "students": [
+      "Shiva Karmakar",
+      "Raymilka Rodriguez Ortiz",
+      "Rosaura Pantaleon",
+      "Devyn LaForey-Colter"
+    ],
+    "school": "Manhattan Center for Science and Mathematics, Manhattan",
+    "mentors": "Evelyn Wing",
+    "description": "It is crucial to understand the effect different environmental conditions within an urban area has on ecosystems. One way to manage this relationship is to compare the amount of biodiversity of any given organisms within these regions. In this project we decided to explore the effect on bacterial biodiversity of oysters within different regions of the East Coast, where urbanization varies based on the waters where the organisms are supplied. Since oysters are considered filter feeders and purchasing commercial oysters are frequent by consumers, we can analyze the bacterial population within the oysters located at Blue Point, Long Island and Plymouth Rock Massachusetts. The urban location of blue point causes the water quality to be increasingly contaminated, whereas the waters at Plymouth Rock are generally tended to by the company which would provide the oysters. In order to analyze the bacterial biodiversity within both regions, we will first gather the oysters and plate the bacteria",
+    "poster": "wing-4291-poster-POQQSHI.pdf"
+  },
+  {
+    "id": "126dea3f-39d4-414c-8e84-5661d5f1fdf8",
+    "project": "Biodiversity of mushrooms in Northern New Jersey",
+    "students": [
+      "Linah Han",
+      "Erica Lee",
+      "Davin Shin"
+    ],
+    "school": "Tenafly HS, Other",
+    "mentors": "anat firnberg",
+    "description": "mushrooms play a vital role in the environment as they function as nutrient cyclers, pathogens, and mutualists. Mushrooms are also decomposers, providing life-sustaining nutrients to plants through the soil as they decompose the remains of others. They recycle organic and inorganic byproducts throughout the biome. we will focus on the biodiversity of mushrooms in northern New Jersey, where over 5,000 different mushroom species have been identified by the Mycological Federation. We will test the soli pH around the collection sites.",
+    "poster": "firnberg-4165-poster-EKST.jpg"
+  },
+  {
+    "id": "38de47e3-5748-4f12-b8e1-6a910e2cb0a5",
+    "project": "The Diversity of Oak Trees",
+    "students": [
+      "Blake Haider",
+      "Ikram Agbagni",
+      "Ronghou Huang"
+    ],
+    "school": "The Browning School, Manhattan",
+    "mentors": "Akira Wong",
+    "description": "This Urban Barcoding Project investigates the biodiversity of oak tree species in New York City (NYC) over time. Focusing primarily on Central Park and extending to all five boroughs, the study intends to explore how the oak tree population has evolved and adapted in response to changing environmental conditions. With a backdrop of NYC's diverse urban landscape, the project utilizes DNA barcoding to identify and classify different oak tree species, linking genetic information with their habitat. The specific aims include understanding the impact of urbanization on oak tree populations, uncovering genomic changes, and exploring temporal dynamics to predict future trends. By examining the intersection of genetics and environment, the study seeks to provide valuable insights into the effects of climate change, human activities, and urban development on the biodiversity of oak trees in NYC, contributing to the preservation of crucial urban ecosystems.",
+    "poster": "wong-4417-poster-WOT0L.pdf"
+  },
+  {
+    "id": "9af4bd4b-bc0a-4cd8-85eb-13a05acae996",
+    "project": "The Effect of Restoration of Marshes on Shrimp Abundance",
+    "students": [
+      "Brooke Bezoza",
+      "Gabrielle Santemma",
+      "Sabrina Stein"
+    ],
+    "school": "Ethical Culture Fieldston School, The Bronx",
+    "mentors": "Nim Lee",
+    "description": "Shrimps are complex, diverse organisms with a wide variety of characteristics. Diversity among shrimp species allows them to occupy several different niches and habitats. Three species of shrimp are found in great abundance in Randall's Island salt marshes. Two habitats at Randall’s Island are the unrestored and restored marshes. In this experiment, we are testing whether the restored marsh has a greater abundance of shrimp than the unrestored one; further, we aim to determine which species are present and their abundance.Using a seine net, we will collect samples from two marshes on Randall’s Island. We will later use these samples to run DNA tests to determine which shrimp species we have collected.",
+    "poster": "lee-4227-poster-2DF7M.pdf"
+  },
+  {
+    "id": "37e726dc-d317-4466-b215-647b43e0696a",
+    "project": "DNA Barcoding on the biodiversity of invasive plants found at the outskirts of Flushing Meadows Corona Park",
+    "students": [
+      "Tenzin Tseyang",
+      "Gulshana Rahman",
+      "Kathryn Riviere"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Virdjinika Paljan Dragic",
+    "description": "Plants are essential to our environment and our daily life. Many living things depend on plants for survival. However, there are invasive plants in New York City which alter the ecosystem and harm native plants and its surrounding. It is important to DNA barcode on the plants to look into the biodiversity and investigate any invasive species present in the plants to prevent any danger to the plants and environment. Flushing meadow Corona Park is a very big park with many diverse plants. In our study, we will collect samples of plants from the outskirts of the Flushing Meadow Corona Park to have a higher probability of investigating invasive species and have a more diverse collection of plants and DNA barcodes to find its biodiversity. We will conduct our study by following the methodology provided by the DNA barcoding 101, which is to isolate, amplify DNA and then analyze. By doing this, we will be able to find the biodiversity of the plants and investigate invasive species.",
+    "poster": "N/A"
+  },
+  {
+    "id": "23f56feb-1ca9-4e29-a0de-5ebe0e898cbc",
+    "project": "Can Emission Standards Improve Plant Biodiversity in a Metropolis",
+    "students": [
+      "Ali Hamdard",
+      "Bennett Choi",
+      "Jaden White",
+      "Veer Malhotra"
+    ],
+    "school": "The Browning School, Manhattan",
+    "mentors": "Akira Wong",
+    "description": "Twentieth century urbanization precipitated New York City’s descent into one the United States’s biggest offenders of NO2 pollution. Recognizing pollution as one of the largest threats to human health and our planet’s biodiversity, the United States Environmental Protection Agency (EPA) established National Ambient Air Quality Standards (NAAQS) under the Clean Air Act, and these limits have led to a 36% decline in Nitrogen Dioxide (NO2) pollution in New York City since 2009. Our goal for this research project is to study how lower NO2 pollution correlates with biodiversity. We will measure biodiversity using DNA barcoding to calculate the Simpson’s Diversity Index in sample regions that have seen different evolutions in NO2 pollution. We hypothesize that a visible payback of higher biodiversity in regions with lower pollution over the past 15 years in New York City, a very short period when climate cycles historically have been viewed as lasting hundreds if not thousands of yea",
+    "poster": "wong-4412-poster-LXHWD8.pdf"
+  },
+  {
+    "id": "0f03e4f0-bb63-474a-8c28-d4f9247124ea",
+    "project": "Polypore fungi and their host trees in Westchester county, NY",
+    "students": [
+      "Anjali Shafiee",
+      "Iqra Ahmad",
+      "Nina Willey"
+    ],
+    "school": "The Ursuline School, Other",
+    "mentors": "Oxana Litvine",
+    "description": "Polypores are a group of fungi that are also referred to as bracket fungi or shelf fungi that typically produce shelf or bracket shaped circular fruiting bodies. Polypores consume wood and are significant agents of wood decay. Polypores play a large role in nutrient cycling and carbon dioxide absorption by forest ecosystems. It is important to study the relationship between tree health and the growth of polypores because it can reveal a lot of information about forested areas and tree decay. The goal of our project is to evaluate the biodiversity of polypore fungi in Westchester County and their relationship with host trees. We aim to compile a list of species of polypores that grow in Westchester County and track the species of trees that polypores are found on and whether those trees were alive or dead. The use of field guides, iNaturalist, and DNA barcoding will help us identify the species of the polypores, and the trees which they grew on. With the identification of polypores and",
+    "poster": "litvine-4400-poster-R7XZLZ.pdf"
+  },
+  {
+    "id": "26d676b2-c560-43dc-841f-40f37e485d8a",
+    "project": "Using DNA Barcoding to Analyze Biodiversity of Moss = Understanding the Effects of Soil pH on Biodiversity",
+    "students": [
+      "Samantha Cho",
+      "Sehyun Lee"
+    ],
+    "school": "Tenafly High School,",
+    "mentors": "Alan Brandstaedter",
+    "description": "Moss is a common plant, yet its positive impact on its surroundings is notable. Thus, our project aims to discern the relationship between pH levels in soil and moss biodiversity. We plan to collect both moss and soil samples from local areas, then test them using PCR and soil testing kits. We will then use our data to analyze how multiple moss species respond to various acidity levels. With our results, we hope to gain insight on moss growth patterns and its impact on soil ecosystems.",
+    "poster": "N/A"
+  },
+  {
+    "id": "61b2d831-27f6-4b2a-bbcb-52eddab78e98",
+    "project": "Species diversity of moss genus Schistidium in Westchester county, NY",
+    "students": [
+      "Marley Jennings",
+      "Zinia Sajjad",
+      "Daniella Anane-Sarfo"
+    ],
+    "school": "The Ursuline School, Other",
+    "mentors": "Oxana Litvine",
+    "description": "Moss is a spore bearing, nonvascular species that plays a vital role in the environment. Because moss is so absorbent, it contributes to controlling water levels and preserving soil moisture. Moss also helps the environment by creating a stable habitat for other surrounding plants to thrive. During our project we will collect various samples of moss with the genus Schistidium from three locations in Westchester County. These locations include, The Bronx River Parkway, The Leatherstocking Trail, and Pinebrook Blvd. We will then initially identify these species using iNaturalist and paper field guides. After the initial identification we will DNA barcode each specimen to receive the most accurate results. The goal of our project is to use DNA barcoding to properly identify the diversity of moss species under the Schistidium genus in Westchester County.",
+    "poster": "litvine-4398-poster-5WJVEY.pdf"
+  },
+  {
+    "id": "409aa1c3-bad9-4679-b9ae-40a21124363f",
+    "project": "The Impacts of Invasive Species on Soil Quality in Central Park vs. Blackrock Forest",
+    "students": [
+      "Karina Boettle",
+      "Maris Vandamme",
+      "Kathryn Sheehan",
+      "Esme Suslak"
+    ],
+    "school": "The Spence School, Manhattan",
+    "mentors": "Aruna Chavali",
+    "description": "In this experiment, our goal was to compare the effects invasive species have on Central Park and Black Rock Forest. Both of these places had completely different environments and there were several components that made our samples differ. We went to both places to collect ten samples of preferably different kinds of fungi to test the soil quality in both. First, we are testing to see if the soil is affected when fungus is implanted into it. Second, we observed the difference in soil quality in fungi in two different environments.",
+    "poster": "chavali-4108-poster-GFKEXKI.pdf"
+  },
+  {
+    "id": "908d8e3f-fea6-46e0-9642-81251654f823",
+    "project": "How Terrain Affects Moss DNA",
+    "students": [
+      "Acacia Savage",
+      "Norah Gould",
+      "Lily Nelson",
+      "Hannah Cao"
+    ],
+    "school": "The Spence School, Manhattan",
+    "mentors": "Aruna Chavali",
+    "description": "The goal of this research project is to determine whether or not the terrain which the moss grows on affects the DNA of the moss. Since we were able to collect moss growing in different areas of two environments, we want to answer how moss DNA differs across these samples. Within our data we are curious how many different types of moss we have, and if there is a moss that grows in both places. If so, is the DNA of that moss type the same or different in different environments?",
+    "poster": "chavali-4109-poster-JG1OO.pdf"
+  },
+  {
+    "id": "42dcd9b8-e457-4b71-a80b-c695b91bceb6",
+    "project": "The Effects of Water Pollution on Algal DNA Mutation",
+    "students": [
+      "Alexandra Levey",
+      "Amelia Britton",
+      "Dinah El-Rayess"
+    ],
+    "school": "The Spence School, Manhattan",
+    "mentors": "Aruna Chavali",
+    "description": "In this study, our objective is to examine the effect of water pollution on DNA mutations in algae. In this experiment, algae will be collected from two locations: Central Park and Black Rock Forest. The DNA of both algae species collected will be analyzed. Our ultimate goal is to draw comparisons and evaluate the data obtained in relation to the DNA database available at the National Center for Biotechnology Information (NCBI). Through this investigation, we hope to gain insights into how water and environmental pollution can influence DNA mutations.",
+    "poster": "chavali-4110-poster-D6OR07E.pdf"
+  },
+  {
+    "id": "70343eeb-8391-4119-ab5f-68dce6222821",
+    "project": "Bioindicator Fungal DNA: Comparing Environment Quality in Black Rock and Central Park",
+    "students": [
+      "Nichelle White",
+      "Xinran Ma",
+      "Sahana Crawford"
+    ],
+    "school": "The Spence School, Manhattan",
+    "mentors": "Aruna Chavali",
+    "description": "The objective of this study was to examine the effect of environmental factors on genetic variance in fungi. The fungi analyzed in this experiment were collected from Black Rock Forest and Central Park. Fungi were determined as the subject of research for this study because they function as bioindicators, organisms that are particularly sensitive to environmental changes and that indicate their environment's health. Following DNA extraction, DNA sequencing will be utilized to reveal information about the relationship between fungi and the environment’s pollution. This study will provide insight and understanding into how environmental factors such as air and soil quality can affect the DNA of fungi.",
+    "poster": "chavali-4111-poster-AOUY.pdf"
+  },
+  {
+    "id": "d5cfb63b-d8db-43fc-b74e-0db905bc3161",
+    "project": "The Effect of NO2 on the Biodiversity of Tree Saplings in Urban Areas Compared to Rural Areas",
+    "students": [
+      "Ella Kim",
+      "Caroline Wallace",
+      "Klarke Johnson"
+    ],
+    "school": "The Spence School, Manhattan",
+    "mentors": "Aruna Chavali",
+    "description": "This experiment aims to explore how NO2 affects leaf biodiversity in Black Rock Forest and Central Park. The samples will be collected from Black Rock Forest and Central Park. Then, rapid DNA isolation will be used to decode and determine the species of the leaves. Lastly, the biodiversity and NO2 levels will be compared to determine their correlation. Through this experiment, we hope to prove that NO2 has effects on the biodiversity of trees, and therefore, more effects should be used to reduce NO2 near areas with large populations of trees.",
+    "poster": "chavali-4112-poster-Y004I0.pdf"
+  },
+  {
+    "id": "179d205c-4703-46a8-96ef-205044706724",
+    "project": "Prevalence of Invasive Plants Growing at the Base of Street Trees",
+    "students": [
+      "Aminata Diallo",
+      "Ava Rubinstein",
+      "Dani Jefferson"
+    ],
+    "school": "The Dalton School, Manhattan",
+    "mentors": "Andy Chen",
+    "description": "We aim to explore the presence of invasive plant species in the Upper East Side of New York City. We will conduct surveys along city streets, specifically looking for small plants growing under street trees. We hypothesize that we will discover a significant number of invasive species during our investigation. This is because the number of invasive species in New York is so substantial that there are new ones discovered each year. We believe it will be particularly valuable to concentrate on smaller plants, considering that there are over 50 plant species designated as invasive to New York's biodiversity. Additionally, the perimeter we chose for data collection is landscaped regularly, making it unlikely for large plant species to establish and outcompete potential invasive species.",
+    "poster": "chen-4181-poster-NWMNBUI.pdf"
+  },
+  {
+    "id": "af061f5b-9118-4e30-b55e-429ec4bfb964",
+    "project": "Invasive Japanese Stiltgrass effect on Bio diversity of ground level plant species in forests of northern NJ",
+    "students": [
+      "Hillary Xie",
+      "Wendy Guo"
+    ],
+    "school": "Tenafly HS, Other",
+    "mentors": "anat firnberg",
+    "description": "Japanese Stiltgrass’ negative impact on biodiversity is well-documented, though specific information on the species it impacts is scarce. Therefore, our project will aim to discover how Japanese Stiltgrass specifically affects ground cover plant species in Northern New Jersey. Using DNA sequencing to identify our samples will allow us to accurately assess biodiversity levels and confidently determine any additional effects Stiltgrass has on the surrounding plant life, such as whether it promotes or inhibits the growth of certain plant species.",
+    "poster": "firnberg-4164-poster-HAXUA.jpg"
+  },
+  {
+    "id": "166d5833-f8a0-4a73-8621-898f2d485cf6",
+    "project": "matK and rbcl identification of Brassica oleracea subspecies",
+    "students": [
+      "Jaylynn Castro",
+      "Sharissa Marsh",
+      "Tristyn Pagan",
+      "Cassidy Marcus"
+    ],
+    "school": "St. Raymond Academy for Girls, The Bronx",
+    "mentors": "Marianne Williams",
+    "description": "Greens and vegetables are a staple of any healthy balanced diet. You can get these nutrients through white-headed cabbage(Brassica oleracea var. capitata f. alba), brussel sprouts (Brassica oleracea var. gemmifera), broccoli (Brassica oleracea var. italica), cauliflower (Brassica oleracea var. botrytis), kale (Brassica oleracea var. acephala), head cabbage (Brassica oleracea var. britannica), and kohlrabi (Brassica oleracea var. gongylodes). As different as these vegetables might be, they all are connected as one species. Brassica oleracea is the species that connects all these vegetables. Each one is a subspecies of Brassica oleracea. This raises the question are these variants different on a genetic level? Can DNA barcoding identify each variety? To conduct this research, we plan on comparing the matK genes and the rbcl genes of the variants side by side to determine if the evolution of Brassica oleraca changed the genes to differentiate the subspecies or if their genes are so conser",
+    "poster": "williams-4238-poster-H8WG.pdf"
+  },
+  {
+    "id": "914c8c78-2ddb-4e35-b3b9-536d2cf338b2",
+    "project": "Garden Roof Ant Biodiversity",
+    "students": [
+      "Annabella Paraschac",
+      "Sophia Kohler",
+      "Mia Tagore"
+    ],
+    "school": "Marymount High School",
+    "mentors": "Robert Getz",
+    "description": "Different parts of the city are populated with a diverse range of species. To shed light on this issue, our study poses the question, what is the diversity of ant species in the Marymount School’s rooftop garden compared to Central Park as determined through DNA barcoding? We will employ DNA barcoding, a technique that allows for precise species identification, to ascertain the species present in our garden. Through further research, we will trace the origins of any non-native ants and assess their potential as invasive species. We hypothesize that the ant population in the rooftop garden will comprise a mix of both native and non-native species, some of which may be invasive. What we discover in this study could provide out of the ordinary insights into urban biodiversity, enhance public understanding of this vital topic (Perfecto & Philpott, 2023), and inform conservation efforts in urban settings.",
+    "poster": "N/A"
+  },
+  {
+    "id": "bc9213c3-a332-43fc-a5fd-e44ca42ce97b",
+    "project": "The Hunt for Invasive Species in NYC Parks",
+    "students": [
+      "Sofia Aita",
+      "Lily Siegel",
+      "Julieth Guzhnay"
+    ],
+    "school": "Frank McCourt HS",
+    "mentors": "Dora Miklos",
+    "description": "For years, New York has been battling species invasive to the land that cause massive threats to the current biodiversity to the city. Biodiversity refers to the variety of organisms around us including plants, animals, insects, fungi, and other microorganisms (Hancock, n.d.). Working together these organisms work together to maintain an equilibrium in the park's ecosystem. New York city has been susceptible to invasive species for ages from the amount of human activity as it is an unfortunate byproduct of traveling and trading. These invasive species cause massive threats to biodiversity in New York “What winds up happening is that these species replace the native plants that are really important to our native animals,\" said McIntyre. \"We lose our native animals, we see an ecosystem decline” (McIntyre, 2019). There are around 524 invasive plant species in New York, many of which overrunning parks and threatening the biodiversity of these areas and damaging the wildlife native to t",
+    "poster": "N/A"
+  },
+  {
+    "id": "38870b00-475b-46a5-a482-55e97b129840",
+    "project": "Garden Roof Ant Biodiversity",
+    "students": [
+      "Anna Bessonette",
+      "Amelia Floyd"
+    ],
+    "school": "Marymount High School",
+    "mentors": "Robert Getz",
+    "description": "Our research question is will there be similar or different biodiversity indexes on the Marymount Rooftop as compared to a bigger park, such as Central Park. Our hypothesis is if there is a limited diversity on the roof in terms of plants and roof space, then there will be a less diverse range of ant species as compared to the number of ant species in Central Park, which is abundant in different plant species.",
+    "poster": "N/A"
+  },
+  {
+    "id": "c9d4417d-e3ab-4d98-8c18-5667d7ec3915",
+    "project": "Does Turtle Pond Support Wetland Indicator Plants?",
+    "students": [
+      "Annika Maduraperuma",
+      "Mira Gulati",
+      "Leo Rodriguez",
+      "Ani Sharma"
+    ],
+    "school": "The Dalton School, Manhattan",
+    "mentors": "Andy Chen",
+    "description": "Our goal is to determine whether or not Turtle Pond contains wetland indicator plants. We aim to determine this by identifying the plants either living along the shoreline in the waterlogged soil or living in the water. By identifying the wetland indicator rating of these plants, we can extrapolate whether or not Turtle Pond is really a freshwater wetland.",
+    "poster": "chen-4182-poster-A6OF.pdf"
+  },
+  {
+    "id": "6dc753a5-b7aa-4963-ae7f-bf50b40bdddf",
+    "project": "Grass Health in NYC Parks and Its Implications",
+    "students": [
+      "Lee Adler",
+      "Chelgis Dabashi",
+      "Daniella Siso"
+    ],
+    "school": "Frank McCourt High School, Manhattan",
+    "mentors": "Dora Miklos",
+    "description": "Poaceae, or grass, is an essential part of NYC and its green spaces. With over 200 species alone in the city, it plays a vital role in maintaining the local ecosystem. Its learned to adapt for life in a wide range of places, exhibiting a variety of breeding mechanisms such as cross-pollination, self-pollination, cloning, apomixis, and hybridisation between species (Huang, 2021), culminating in wide-spread genetic diversity and the ability for different types of grasses to adapt to live almost anywhere in the world, even polar regions, as is the case for the Deschampsia Antarctica (GRID-Arendal, n.d.). Grass serves a vital function for our communities, especially in a polluted, industrial city like NYC. One of the many benefits is the usage of grass as a food source. It produces grain, a main food source for most of the world. The grass leaves themselves can also be eaten directly, albeit, not by humans. However, this doesn’t negate the importance it holds for animals. Grass can also",
+    "poster": "N/A"
+  },
+  {
+    "id": "148bfbbf-91f6-4e3a-8168-17d5868a9c2f",
+    "project": "Exploring the Prevalence of Invertebrate Disease Vectors in New York City Soils",
+    "students": [
+      "Emma Zuzunaga",
+      "Eileen Li",
+      "Mujtaba Raja"
+    ],
+    "school": "The Dalton School, Manhattan",
+    "mentors": "Andy Chen",
+    "description": "By experimenting and analyzing how prevalent invertebrate disease vectors are in New York City soil, we will be able to explore similar environmental problems occurring throughout the Northeast. For example, with its many forests, the soils of Upstate’s New York wooded areas attract large numbers of deer ticks, especially during the summer season. Research shows that over 30% of these deer ticks carry pathogens that lead to Lyme disease. Due to climate change, invertebrate disease vectors, such as deer ticks, are moving farther up north and we know they can hibernate over winter. As a result of warmer winters, this activity is expected to increase. New York City, containing nearly 43% of the New York state’s population, would represent a huge chunk of data regarding these invertebrate disease vectors. By researching the prevalence of invertebrate disease vectors living in New York City, we can make connections to existing issues throughout the Northeast. Our goal with our research",
+    "poster": "chen-4183-poster-PI6M.pdf"
+  },
+  {
+    "id": "819d95fe-83b1-4436-bec9-64e2cb7a9280",
+    "project": "Garden Roof Ant Biodiversity",
+    "students": [
+      "Clarissa McCarthy",
+      "Victoria Ferreira"
+    ],
+    "school": "Marymount High School",
+    "mentors": "Robert Getz",
+    "description": "In our study, we plan to investigate the diversity and interactions among the ants inhabiting the roof at Marymount School of New York High School. We plan to observe and conduct experiments to answer whether or not the ants will begin to compete territorially for the resources available on the rooftop, because of the living environments they were placed into. Research has already been done concerning ants’ roles in the cities, and how they act. A study sampled ants in different medians scattered across various avenues in New York City. The study concluded that of the avenues sampled, Tetramorium caespitum was the most abundant species; furthermore, they were found to be highly territorial (Pećarević et al., 2010). We hypothesize that if ants are introduced to a new environment, for example, life on a roof, then the species that inhabit the area will begin to compete over territory as compared to the typical territorial mannerisms of ants found in the wild (Hölldobler & Lumsden, n",
+    "poster": "N/A"
+  },
+  {
+    "id": "ca3dad53-3b2e-47ab-aa76-66d2f1f1c017",
+    "project": "Garden Roof Ant Biodiversity",
+    "students": [
+      "Remi Salzmann",
+      "Emily Peng",
+      "Ailish Doheny"
+    ],
+    "school": "Marymount High School",
+    "mentors": "Robert Getz",
+    "description": "Our study will investigate the species composition and interactions between ant species on the roof garden at Marymount School of New York. This experiment will answer the question of how the plant and ant biodiversity on the garden roof compare to those of Central Park. We hypothesize that the roof garden will have less biodiversity than Central Park due to the less diverse range of plants.",
+    "poster": "N/A"
+  },
+  {
+    "id": "c67314ca-99ce-4b9b-9229-cd9ea79d5491",
+    "project": "A Comparative Study of insects in NYC Using DNA Barcoding",
+    "students": [
+      "Aya Alsabri",
+      "Cara Jurenko"
+    ],
+    "school": "Bard High School Early College, Manhattan",
+    "mentors": "Ayse Aydemir",
+    "description": "In this Urban Barcode Research project, we are investigating the biodiversity of insects in various neighborhoods. We expect to see a difference between the biodiversity in more residential areas of Brooklyn as compared to more urbanized populations in lower Manhattan. In the specific neighborhoods, there are more green spaces in Brooklyn compared to Manhattan. Specific Aim 1: We aim to first identify the invertebrates collected and account for species abundance and richness. Specific Aim 2: We aim to utilize DNA barcoding for sample identification at the species level. DNA Barcoding will allow for a specific analysis of the species of the insects collected, allowing a more thorough survey of variation and biodiversity amongst the collected samples.",
+    "poster": "N/A"
+  },
+  {
+    "id": "00843287-7df3-4c37-b1ae-b17ee85da220",
+    "project": "Analyzing the Health of Green Spaces in Northwest Brooklyn Through Fungal Species",
+    "students": [
+      "Angebella Arjune",
+      "Gala Kamal-Bordelois"
+    ],
+    "school": "Brooklyn Technical High School, Brooklyn",
+    "mentors": "Michael Estrella",
+    "description": "In 2007, NYC Parks launched our ambitious MillionTreesNYC initiative—to plant and care for one million trees in New York City, eight years later, in 2015, this goal was accomplished (1, 2). Today, about 24 percent of the city is covered by tree canopy accounting for one hundred and sixty eight different species and over 7 million trees in New York City, each of which will absorb more than forty-eight pounds of carbon dioxide in a given year (3, 4). This year the U.S. Department of Agriculture (USDA) Forest Service awarded the city 15 million dollars to continue planting trees to further the City’s goal of achieving a 30 percent tree canopy cover across the city (5). According to the US Environmental Protection Agency, trees and vegetation can, on average, lower surface and air temperatures by 2.9°F (6). The cooling effect of trees is of import since New York City’s 10-year temperature averages, 2010 to 2019, for the months of June, July and August are, 80°F, 86°F and 84°F res",
+    "poster": "estrella-4384-poster-IAQCD.pdf"
+  },
+  {
+    "id": "a374749e-61db-4984-b47c-71e04e0fb2ed",
+    "project": "Investigating the Biodiversity of Lichen in New York City",
+    "students": [
+      "Saya Taylor",
+      "Maya Anwar",
+      "Sharmin Sultana",
+      "Geoffrey Fletcher"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Rocheli Apilan",
+    "description": "Lichens are extremely diverse organisms. They are a complex fungus-algae lifeform that grows on trees around the world with over 15,000-20,000 species’. Similar to Lichens, the five boroughs of New York also incredibly diverse in terms of people, environment and climate. Each neighborhood has its own unique environment which attributes to the species diversity found in the areas. We would like to look at the correlation between Lichen species and New York environments to understand the unique nature of both variables. This research will allow us to look into this often overlooked organism as well as investigate some of the less researched New York’s neighborhoods. Despite being a big city most scientists visit Central Park for conducting research on biodiversity. Collection will take place in McCarren Park located in Greenpoint, Brooklyn. Those specimens will be compared to lichens collected from Hudson River Park in Chelsea, Manhattan. Manhattan is a very dense area with high poll",
+    "poster": "apilan-4162-poster-NBS0JZF.pdf"
+  },
+  {
+    "id": "2c539f66-48da-4406-9490-6b3c2e3194e2",
+    "project": "The biodiversity of myriapods in Westchester county, NY",
+    "students": [
+      "Isabella Avila",
+      "Riya Buddhavarapu",
+      "JaneMarie Welde"
+    ],
+    "school": "The Ursuline School, Other",
+    "mentors": "Oxana Litvine",
+    "description": "Myriapoda is an invertebrate subphylum with four distinct classes: chilopoda, diplopoda, pauropoda, and symphyla. Myriapods work as decomposers. They enrich soil and, if carnivorous, regulate insect populations. We aim to assess Westchester County's myriapod biodiversity and generate a list of species. DNA barcoding, iNaturalist, and paper field guides will be used in identifying myriapod species. We intend to provide Westchester County with an in-depth species list of myriapods to aid in the understanding of the biodiversity in Westchester county.",
+    "poster": "litvine-4397-poster-M1YJ1U.pdf"
+  },
+  {
+    "id": "f993fd79-fffe-43d4-8463-3a99d758061a",
+    "project": "Correlating the biodiversity of weeds and pH of the soil in Manhattan-Pumphouse Park and Queens-Astoria Park",
+    "students": [
+      "Ahmed Chowdhury",
+      "Sporsho Chowdhury",
+      "Khin Yadanar"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Virdjinika Paljan Dragic",
+    "description": "This study investigates the diverse landscape of weed plant species and soil pH across the two parks of New York City, namely, Manhattan-Pumphouse Park and Queens-Astoria Park. The research aims to provide an understanding of the ecological variations within urban environments and their impact on plant life. This investigation will utilize DNA barcoding to identify different weed plant species present in each park. Additionally, soil samples will be collected for pH determination shedding light on the environmental factors influencing plant growth and distribution. The variations in soil pH further contribute to our understanding of the ecological nuances within the borough parks. These findings have implications for urban planning and environmental management, as they highlight the need for context-specific strategies to promote biodiversity and sustainable land use. It also provides valuable insights into the intricate relationship between urban landscapes, weed plant diversity, and",
+    "poster": "paljandragic-4152-poster-PY0NX.pdf"
+  },
+  {
+    "id": "a7e24b96-6028-466a-a513-60839f7aca59",
+    "project": "Biodiversity of moss in northern new jersey",
+    "students": [
+      "Fady Temimi",
+      "Abhinav De"
+    ],
+    "school": "Tenafly High School",
+    "mentors": "Alan Brandstaedter",
+    "description": "In Northern New Jersey, there are around 1,400 species of moss, and the effect moss has on an ecosystem is huge. Our project aims to relate the soil pH, nitrogen, phosphorus, and potassium levels of the soil to the biodiversity of moss. We will collect moss and soil samples from different areas, and use PCR and DNA barcoding to identify the species. With our results, we hope to gain insight into the biodiversity of moss and its impact on ecosystems.",
+    "poster": "N/A"
+  },
+  {
+    "id": "be9d77d7-2ca4-4a6b-9490-937244e50bd7",
+    "project": "Testing the Biodiversity of Crabs at Randall's Island Park",
+    "students": [
+      "Zachary Lodish",
+      "Jeremy Walker",
+      "Liam Katzin"
+    ],
+    "school": "Ethical Cultural Fieldston School",
+    "mentors": "Nim Lee",
+    "description": "Within intertidal areas of the Northeastern seaboard of the United States, there is a considerable abundance of crabs. Areas such as salt marshes and shorelines provide various forms of habitat for these populations, each posing various benefits for the crabs. The purpose of our project is to survey the biodiversity of crab populations in an urban island environment. We will conduct our study at Randall’s Island’s restored salt marsh and the surrounding bodies of water. In this experiment, we will be testing the biodiversity of crab species. We will also be able to determine the diversity of species in the aquatic habitats compared to terrestrial habitats at the park. We will test for the habitat preference of fiddler crab species. We will examine the ratio of invasive European green crabs and Asian shore crabs to native crabs across various habitats.",
+    "poster": "lee-4226-poster-TCL1.pdf"
+  },
+  {
+    "id": "cbc135bd-d140-4b93-8f66-4d662ff6e0a7",
+    "project": "Urban Microbial Atlas: Exploring Microbes in NYC's Subways and Bus System",
+    "students": [
+      "Agamjot Kaur",
+      "Sophia Tkachenko"
+    ],
+    "school": "Queens High School for the Sciences at York College, Queens",
+    "mentors": "Fanny Matheis",
+    "description": "New York City is a fast-paced metropolis which heavily depends on its extensive public transportation network. Every day, the NYC subway system transports approximately 3.2 million riders and the NYC bus system has approximately 1.4 million riders (MTA Ridership 2022). As ridership changes over time, so will the NYC transit microbial landscape. We aim to conduct a post-pandemic analysis of microbial diversity in the NYC Transit system and compare our data to that of previous studies to monitor population changes. We seek to employ DNA Barcoding in an effort to identify and monitor microbial populations and as such draw appropriate conclusions about their potential to pose potential health risks for everyday riders due to enhanced exposure (MTA Ridership 2022). We hope that such investigation propels public knowledge and speculation of the possible health danger as they continue to use NYC transportation, as well as spur further research into how to combat dangerous microbial diversity",
+    "poster": "N/A"
+  },
+  {
+    "id": "bc27fdab-dc2d-4d72-9b85-c7d132762765",
+    "project": "Soil pH versus Diversity of Microbiomes in Central Park",
+    "students": [
+      "Ernie Cuesta",
+      "Nowshad Reza",
+      "bryant jimenez"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Virdjinika Paljan Dragic",
+    "description": "Central Park, an iconic urban green space, is a habitat hosting a rich diversity of microorganisms, which play pivotal roles in ecosystem functions and health. Soil pH, a fundamental environmental factor, has the potential to significantly impact these microorganisms. In this DNA barcoding project, we investigate the relationship between soil pH and microorganisms’ biodiversity within Central Park. By collecting soil samples from two contrasting locations, characterized by varying pH levels, we aim to uncover the influence of pH on microbial diversity and composition. This project seeks to understand how soil pH can shape the ecosystem of Central Park's microorganisms and contribute to our understanding of DNA barcoding.",
+    "poster": "paljandragic-4153-poster-5VGM.pdf"
+  },
+  {
+    "id": "0054ea59-90c8-4825-b57c-1e4ca6f575dc",
+    "project": "Biodiversity and Effects of Invasive Weeds and Grasses in our Neighborhood",
+    "students": [
+      "Melissa Cortez",
+      "Salsabil Adiba",
+      "ashlee dossantos",
+      "Sayam Dahuja"
+    ],
+    "school": "High School for Health Professions and Human Services, Manhattan",
+    "mentors": "Rocheli Apilan",
+    "description": "DNA barcoding is a system that can be used to identify invasive species of grass and weeds using a short genetic region as a barcode. The U.S Department of Agriculture had listed different types of grasses and weeds as invasive to the environment. The grasses and weeds that are invasive are those that are overgrowing and spilling onto curbs and sidewalks. These invasions can overtake and kill other plants that are in that area which can be harmful and decrease biodiversity. Different samples are to be collected from different neighborhoods; Cityline and Bayridge in New York City. It can be used to assess their presence in our environment and educate high school students. The study aims to collect samples from different areas to determine if different grass and weed species grow differently in a variety of environments. DNA for analysis is extracted from each sample and replicated millions of times to prepare it for sequencing. The environment affects the species and growth of weeds, an",
+    "poster": "apilan-4163-poster-AAGC.pdf"
+  }
+]
